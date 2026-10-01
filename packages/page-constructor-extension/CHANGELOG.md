@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/gravity-ui/markdown-editor/compare/markdown-editor-page-constructor-extension-v0.1.0...markdown-editor-page-constructor-extension-v0.1.1) (2026-10-01)
+
+
+### Features
+
+* export toolbar item configs for presets ([#1308](https://github.com/gravity-ui/markdown-editor/issues/1308)) ([e7acac8](https://github.com/gravity-ui/markdown-editor/commit/e7acac80d8c3e104518e5fd737f4fb92cb52cc42))
+
 ## 0.1.0 (2026-04-27)
 
 
